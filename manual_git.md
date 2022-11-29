@@ -80,3 +80,5 @@ git branch \<new branch name>
 Чтобы удалить ветку нужно в терминале ввести команду:
 
     git branch -d branch_name
+
+### Визуализация ветвления
